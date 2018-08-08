@@ -14,27 +14,35 @@ Dataset retrieved from Educational Board  website consists of record of nearly 7
 One important information which I found that, most students who selected Biology, performed well in all other subjects as compared to those who selected Computer Science and wanted to purse Engineering in near future. This trend was found in every subject of the Examination.
 <img src="/Img/MainImg.jpg" width= "1200">
 
-#### Marks Comparison of
-<img src="/Img/index.jpg" width= "700">
+#### Marks Comparison of.
+
+<img src="/Img/index.png" width= "800">
+
 
 #### Marks Comparison of
-<img src="/Img/physics.jpg" width= "1200">
+
+<img src="/Img/physics.png" width= "800">
 
 #### Marks Comparison of
-<img src="/Img/Maths.jpg" width= "1200">
+
+<img src="/Img/Maths.png" width= "800">
 
 #### Marks Comparison of
-<img src="/Img/Pakstudes.jpg" width= "1200">
+
+<img src="/Img/Pakstudes.png" width= "800">
 
 #### Marks Comparison of
-<img src="/Img/Islamyat.jpg" width= "1200">
+
+<img src="/Img/Islamyat.png" width= "800">
 
 #### Marks Comparison of
-<img src="/Img/Urdu.jpg" width= "1200">
+
+<img src="/Img/Urdu.png" width= "800">
 
 #### Marks Comparison of
-<img src="/Img/Phyprac.jpg" width= "1200">
+
+<img src="/Img/Phyprac.png" width= "800">
 
 #### Marks Comparison of
-<img src="/Img/ChemPrac.jpg" width= "1200">
+<img src="/Img/ChemPrac.png" width= "1200">
 
