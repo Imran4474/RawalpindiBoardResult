@@ -41,8 +41,8 @@ One important information which I found that, most students who selected Biology
 
 #### Marks Comparison of
 
-<img src="/Img/Phyprac.png" width= "800">
+<img src="/Img/Phyprac.png" width= "500">
 
 #### Marks Comparison of
-<img src="/Img/ChemPrac.png" width= "1200">
+<img src="/Img/ChemPrac.png" width= "500">
 
