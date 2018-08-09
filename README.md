@@ -19,7 +19,7 @@ Dataset retrieved from Educational Board  website consists of record of nearly 7
 
 ##### Only 10 students from Pre-Medical who scored 50% or less marks in Chemistry pushed themselves in the Part2 exam and scored A+ Grade in the respective subject out of 15 thousands.
 
-##### Only 7 students each from Both Pre-Medical and Pre-Engineering who scored 50% or less marks in Chemistry pushed themselves in the Part2 exam and scored A+ Grade in the respective subject out of 20 thousands.
+##### Only 7 students each from Pre-Engineering who scored 50% or less marks in Chemistry pushed themselves in the Part2 exam and scored A+ Grade in the respective subject out of 20 thousands.
 
 Meanwhile, 2000 Pre-Medical Students scored A+ in Part-2 exam of Mathematics after getting 50% or less in Part-1. 1700 Pre-Engineering Students scored A+ in Part-2 exam of Mathematics after getting 50% or less Part-1. 
 
