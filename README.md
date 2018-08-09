@@ -1,5 +1,7 @@
 # Pakistani Student Result
-This project deals with exploring performance of Students in Pakistan's Educational System and more specifically "Board of Intermediate and Secondary Education Rawalpindi". This project consists of webcrawler of Rawalpindi board website, dataset of 70k students with more than 21 features, DataVisualization and Python source code Notebook.
+This project deals with exploring Students' performance in Pakistan's Educational System and more specifically "Board of Intermediate and Secondary Education Rawalpindi". This project consists of webcrawler of Rawalpindi board website, dataset of 70k students with more than 21 features, DataVisualization and Python source code Notebook.
+
+[Student data is collected from Board of Intermediate and Secondary Education Rawalpindi website](http://www.biserwp.edu.pk/)
 
 <img src="/Img/hall2.jpg" width= "600">
 
@@ -13,7 +15,7 @@ This project deals with exploring performance of Students in Pakistan's Educatio
 Dataset retrieved from Educational Board  website consists of record of nearly 70k examples of Pre-Engineering and Pre-Medical Students. 
 #### Marks Comparison of Pre-Medical and Pre-Engineering Students of Rawalpindi Board.
 
-One important information which I found that, most students who selected Biology, performed well in all other subjects as compared to those who selected Computer Science and wanted to purse Engineering in near future. This trend was found in every subject of the Examination.
+One important information which I found that, more students who selected Biology, performed well in all other subjects as compared to those who selected Computer Science and wanted to purse Engineering in the near future. This trend was found in every subject of the Examination.
 
 
 <img src="/Img/MainImg.jpg" width= "1200">
@@ -45,7 +47,7 @@ One important information which I found that, most students who selected Biology
 
 ### Physics Practical Exam Marks Comparison
 
-<img src="/Img/Phyprac.png" width= "500">
+<img src="/Img/phyprac2.png" width= "500">
 
 ### Chemistry Practical Exam Marks Comparison
 
