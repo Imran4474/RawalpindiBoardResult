@@ -1,5 +1,5 @@
 # Pakistani Student Result
-This project deals with exploring Students' performance in Pakistan's Educational System and more specifically "Board of Intermediate and Secondary Education Rawalpindi". This project consists of webcrawler of Rawalpindi board website, dataset of 70k students with more than 21 features, DataVisualization and Python source code Notebook.
+This project deals with exploring Student performance in Pakistan Educational System and more specifically "Board of Intermediate and Secondary Education Rawalpindi". This project consists of webcrawler of Rawalpindi board website, dataset of 70k students with more than 21 features, DataVisualization and Python source code Notebook.
 
 [Student data is collected from Board of Intermediate and Secondary Education Rawalpindi website](http://www.biserwp.edu.pk/)
 
